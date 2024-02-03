@@ -1,0 +1,38 @@
+[
+  {
+    "linkclient": "https://msvstudio.co.id/",
+    "imageclient": "./img/client-msvlogo.png"
+
+  },
+
+  {
+    "linkclient": "https://tries.co.id/",
+    "imageclient": "./img/client-trieslogo.png"
+
+  },
+
+  {
+    "linkclient": "https://cakraagroin.com/",
+    "imageclient": "./img/client-cakralogo.png"
+
+  },
+
+  {
+    "linkclient": "https://www.instagram.com/cutting_sticker_yogyakarta/",
+    "imageclient": "./img/client-dyktalogo.png"
+
+  },
+
+  {
+    "linkclient": "https://www.pondokhatithuluse.com",
+    "imageclient": "./img/client-thuluselogo.png"
+
+  },
+
+  {
+    "linkclient": "https://bsi.uad.ac.id",
+    "imageclient": "./img/client-bsilogo.png"
+
+  }
+]
+  
